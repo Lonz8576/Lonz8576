@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Learning new things (I'm still new and would love any input)**
 
-- 👨‍💻 All of my projects are available at [https://lonz-div.netlify.app/](https://lonz-div.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://lonz-div.netlify.app/](https://lonz.div)
 
 - 💬 Ask me about **How I got here**
 
