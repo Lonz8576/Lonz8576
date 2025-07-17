@@ -2,21 +2,20 @@
 
 
 <h1 align="center">Hi 👋, I'm Nic</h1>
-<h3 align="center">An ever-evolving frontend developer from the U.S</h3>
+<h3 align="center">An ever-evolving Frontend Developer & IT Specialist from the U.S</h3>
 
-- 🔭 I’m currently working on **Dynamic-Pricing Tool**
+- 🔭 I’m currently working on **AI Fitness Trainer app && AI Pet Training and Tricks app**
 
-- 🌱 I’m currently learning **Vue.js, studying for my AWS: Developer Certification**
+- 🌱 I’m currently learning **Studying for my AWS: Developer Certification**
 
-- 🤝 I’m looking for help with **Learning new things (I'm still new and would love any input)**
+- 🤝 I’m looking for help with **Learning new things (I'm still a newbie and would love any input or feedback!)**
 
-- 👨‍💻 All of my projects are available at [https://lonz-div.netlify.app/](https://lonz.div)
+- 👨‍💻 All of my projects are available at (https://lonz.dev/)
 
-- 💬 Ask me about **How I got here**
+- 💬 Ask me about **How I got here** -> (https://lonz.dev/blog)
 
-- 📫 How to reach me **8576nic@gmail.com**
+- 📫 How to reach me **lonz.dev@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e99add4c-cfe5-490e-89bc-06c18bf93b58](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e99add4c-cfe5-490e-89bc-06c18bf93b58)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
