@@ -1,5 +1,7 @@
-![KaneCarterNeopronounsGIF](https://github.com/Lonz8576/Lonz8576/assets/167815213/eabeb06e-4f79-49f9-abd4-73cda1ecedfe)- 🩻 
+<p align="center">
+  <img src="https://github.com/Lonz8576/Lonz8576/assets/167815213/eabeb06e-4f79-49f9-abd4-73cda1ecedfe" alt="Pronoun GIF">
 
+</p>
 
 <h1 align="center">Hi 👋, I'm Nic</h1>
 <h3 align="center">An ever-evolving Frontend Developer & IT Specialist from the U.S</h3>
@@ -19,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    - 🩻 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
